@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290880891215",
+    "firebase_url": "https://se328projectalhobayb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "se328projectalhobayb",
+    "storage_bucket": "se328projectalhobayb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290880891215:android:b68cad0449f1bbd37c3d3a",
+        "android_client_info": {
+          "package_name": "com.example.se328projectalhobayb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290880891215-88o8bop74u0bg2qn5tjrod30lcb46je0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR-EXRVleUQy_o2MeN3wWigdzuxvoXQhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290880891215-88o8bop74u0bg2qn5tjrod30lcb46je0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
